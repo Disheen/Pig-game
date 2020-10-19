@@ -1,0 +1,1 @@
+This is ppig game where two players roll the dice and based on the outcome of the dice and rules of the game it is progessed.I have used Javascript for implementignt the logic of the games. HTML and CSS for web designing
